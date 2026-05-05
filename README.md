@@ -1,6 +1,6 @@
-# Hi there, I'm Peter (June) 👋
+# Hi there, I'm June 👋
 
-I'm a **Software Development student** and **XR enthusiast** based in **Calgary, AB**. I bridge the gap between traditional web/mobile development and immersive virtual environments — building things that feel as natural in a browser as they do inside a headset.
+I'm a **Software Development student** and **XR enthusiast** based in **Calgary, AB**. I bridge the gap between traditional development and immersive virtual environments — building things that feel as natural on a flatscreen as they do inside a headset.
 
 ---
 
@@ -40,7 +40,7 @@ Physics-based simulations in **Unity 6** — experimenting with realistic intera
 
 - **Unity 6** — building interactive 3D and VR experiences, including physics-based simulations
 - **Meta Quest SDK** — standalone VR development for Quest devices
-- **PCVR / Vive Systems** — tethered VR with SteamVR and OpenXR
+- **PCVR / Vive Systems** — tethered VR with SteamVR, OpenXR, and Monado (Linux)
 
 ---
 
@@ -57,7 +57,7 @@ Physics-based simulations in **Unity 6** — experimenting with realistic intera
 When I'm not coding you'll find me:
 
 - Managing my **Pokémon GO** collection 🎒
-- Hunting for retro physical media — **NES** and **Game Boy** titles especially 🕹️
+- Hunting for retro physical media — **Nintendo** and **handheld** titles especially 🕹️
 
 ---
 
