@@ -1,6 +1,12 @@
-# Hi there, I'm Juneko 👋
+# Hi there, I'm Peter (June) 👋
 
-I'm a developer with a passion for **XR / game development** and **full-stack web**, currently exploring the intersection of immersive technology and modern web tooling.
+I'm a **Software Development student** and **XR enthusiast** based in **Calgary, AB**. I bridge the gap between traditional web/mobile development and immersive virtual environments — building things that feel as natural in a browser as they do inside a headset.
+
+---
+
+## 🔭 Currently Working On
+
+Physics-based simulations in **Unity 6** — experimenting with realistic interactions inside virtual environments.
 
 ---
 
@@ -32,7 +38,7 @@ I'm a developer with a passion for **XR / game development** and **full-stack we
 
 ## 🥽 XR & Game Dev
 
-- **Unity 6** — building interactive 3D and VR experiences
+- **Unity 6** — building interactive 3D and VR experiences, including physics-based simulations
 - **Meta Quest SDK** — standalone VR development for Quest devices
 - **PCVR / Vive Systems** — tethered VR with SteamVR and OpenXR
 
@@ -43,6 +49,21 @@ I'm a developer with a passion for **XR / game development** and **full-stack we
 - Extending web projects with **Next.js** and **Firebase** backends
 - Pushing XR experiences further with **Meta Quest** and **PCVR**
 - Containerizing workflows with **Docker**
+
+---
+
+## 🎮 Beyond the Code
+
+When I'm not coding you'll find me:
+
+- Managing my **Pokémon GO** collection 🎒
+- Hunting for retro physical media — **NES** and **Game Boy** titles especially 🕹️
+
+---
+
+## ⚡ Fun Fact
+
+I've spent thousands of hours in **social VR** and love exploring the limits of full-body tracking. If it moves in real life, I want it to move in VR too.
 
 ---
 
